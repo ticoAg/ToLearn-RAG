@@ -8,23 +8,23 @@ Implementation of some tricks about RAG.
 
 # TODO
 
-- [ ] Query相关
-  - [ ] 改写
+-   [ ] Query 相关
 
-- [ ] 文本分块
-  - [ ] 定长
-  - [ ] 循环
-  - [ ] 特定语言
-  - [ ] 语义
-  - [ ] Agent
+    -   [ ] 改写
 
-- [ ] 知识构建
-  - [ ] 各chunk语义增强
-    - [ ] 标题
-    - [ ] 摘要
+-   [ ] 文本分块
 
-  - [ ] 后处理 - 扩增同文章相邻chunk
+    -   [ ] 定长
+    -   [ ] 循环
+    -   [ ] 特定语言
+    -   [ ] 语义
+    -   [ ] Agent
 
+-   [ ] 知识构建
+    -   [ ] 各 chunk 语义增强
+        -   [ ] 标题
+        -   [ ] 摘要
+    -   [ ] 后处理 - 扩增同文章相邻 chunk
 
 # Acknowledgement
 
